@@ -1,0 +1,4 @@
+@import '../../storage/config.scss';
+@function logo($url) {
+  @return $base+$url;
+}
